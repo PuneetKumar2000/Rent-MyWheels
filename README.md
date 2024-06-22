@@ -50,7 +50,7 @@ npm run dev
 
 
 ## Screenshots
-![LandingPage](https://github.com/PrakashM7781/Car_rental/blob/main/car-rental/public/img/Screenshot%202024-04-24%20163253.png?raw=true)
+![LandingPage](https://github.com/PuneetKumar2000/Rent-MyWheels/blob/main/public/img/Home%20Page.png?raw=true)
 
 ![Offering](https://github.com/PrakashM7781/Car_rental/blob/main/car-rental/public/img/offers.png?raw=true)
 
