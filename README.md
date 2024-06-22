@@ -1,5 +1,5 @@
 
-# GoRide Rental
+# Rent-MyWheels: Car Rental Service
 
 This project is a web-based car rental application built using React.js. It provides users with a seamless and intuitive interface for booking rental vehicles. Key features include user registration, car listing, search, pagination, admin panel, feedback, and support functionalities. The application is designed to revolutionize the car rental experience, focusing on simplicity, clarity, and user-friendly features.
 
